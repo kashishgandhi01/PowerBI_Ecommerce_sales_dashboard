@@ -1,7 +1,7 @@
 # PowerBI_Ecommerce_sales_dashboard
 
 ## Overview
-Welcome to the README file for the eCommerce Sales Power BI Dashboard! This document provides essential information about the dashboard, its purpose, and the insights it offers based on the orders and details data. An e-commerce sales Dashboard has been created as the owner of the e-commerce store wants to track and analyze online sales across India. **Kindly check the dashboard file uploaded**
+Welcome to the README file for the eCommerce Sales Power BI Dashboard! This document provides essential information about the dashboard, its purpose, and the insights it offers based on the orders and details data. An e-commerce sales Dashboard has been created as the owner of the e-commerce store wants to track and analyze online sales across India. **Kindly check the dashboard file uploaded.**
 
 ## Purpose
 The purpose of this Power BI dashboard is to analyze eCommerce sales data from orders and details to derive meaningful insights. It aims to provide stakeholders with a comprehensive view of sales performance, trends, and profitability.
